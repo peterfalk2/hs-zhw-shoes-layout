@@ -33,11 +33,9 @@
   height: 100%;
 }
 .medium {
-  width: 200%;
-  height: 200%;
-}
-.column > p {
-  width: 200%;
+  width: 198%;
+  padding-top: 10%;
+
 }
 .shadow {
   margin: 15px 5px;
@@ -54,5 +52,7 @@
   width: 33%;
   float: right;
 }
-
+footer {
+  background-color: rgb(238, 242, 240);
+}
 
